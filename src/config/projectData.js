@@ -1,19 +1,15 @@
 import One from '../assets/1.jpg';
 import Two from '../assets/2.jpg';
-import Three from '../assets/3.jpg';
-import Four from '../assets/4.jpg';
-import Five from '../assets/5.jpg';
-import Six from '../assets/6.jpg';
-import Seven from '../assets/7.jpg';
-import Eight from '../assets/8.jpg';
-import Nine from '../assets/9.jpg';
-import Ten from '../assets/10.jpg';
+import Three from '../assets/about.jpg';
 import Eleven from '../assets/11.jpg';
 import Twelve from '../assets/12.jpg';
 import Thirteen from '../assets/13.jpg';
 import Fourteen from '../assets/14.jpeg';
 import Eighteen from '../assets/18.jpeg';
 import Nineteen from '../assets/19.jpeg';
+import Twenty from '../assets/20.jpeg';
+import TwentyOne from '../assets/21.jpeg';
+import TwentyTwo from '../assets/22.jpeg';
 
 export const projects = [
   {
@@ -36,11 +32,11 @@ export const projects = [
   {
     description:
       'Residential Estate development for Enugu State government in Enugu',
-    completion: '100% Completed',
+    completion: 'Ongoing',
     image: Thirteen,
     value: '₦1.4B',
     date: 'October, 2009',
-    client: 'Enugu State government',
+    client: 'Copen services Ltd',
   },
 
   {
@@ -58,7 +54,7 @@ export const projects = [
     image: Eighteen,
     value: '₦85M',
     date: 'October, 2009',
-    client: 'Copen services Ltd',
+    client: 'Pastor Tony Okorie',
   },
   {
     description: 'Construction of Office Block GRA Port Harcourt',
@@ -78,37 +74,29 @@ export const projects = [
     client: 'Jospaka Ventures Nigeria Ltd./Total Exploration Nigeria Ltd.',
   },
 
-  {
-    description: 'Construction of Hotel Annex Building at Asaba ',
-    completion: '100% Completed',
-    image: Four,
-    value: '₦268M',
-    date: 'November 2014- April 2015',
-    client: 'Kim Royals Hotels & Suites',
-  },
-  {
-    description: 'Construction of 40 rooms hotel at Asaba',
-    completion: '100% Completed',
-    image: Five,
-    value: '₦375M',
-    date: 'November 2014- April 2015',
-    client: 'Austlinks Investment Ltd.',
-  },
+  // {
+  //   description: 'Construction of Hotel Annex Building at Asaba ',
+  //   completion: '100% Completed',
+  //   image: Four,
+  //   value: '₦268M',
+  //   date: 'November 2014- April 2015',
+  //   client: 'Kim Royals Hotels & Suites',
+  // },
 
   {
     description:
       'Construction of 500 Seater Events hall and swimming pool at Asaba. ',
     completion: '100% Completed',
-    image: Six,
-    value: '₦74M',
+    image: Three,
+    value: '₦480M',
     date: 'August 2011 – Nov. 2012',
     client: 'Austlinks Investment Ltd.',
   },
   {
     description: 'Construction of Housing units at DKO Estate Gosa-Lugbe FCT',
     completion: '100% Completed',
-    image: Seven,
-    value: '₦45.54M',
+    image: TwentyTwo,
+    value: '₦185M',
     date: 'November 2012- May 2013',
     client: 'Houscon Nig. Ltd',
   },
@@ -116,7 +104,7 @@ export const projects = [
     description:
       'Construction of 350 seater Ogbele Family Hall at Onicha-Ugbo ',
     completion: '100% Completed',
-    image: Eight,
+    image: TwentyOne,
     value: '₦18M',
     date: 'March 2013-May 2013',
     client: 'Dr. Ibe Kachikwu',
@@ -124,8 +112,8 @@ export const projects = [
   {
     description: 'Construction of Guidance and counseling building at Asaba ',
     completion: '100% Completed',
-    image: Nine,
-    value: '₦49M',
+    image: Twenty,
+    value: '₦98M',
     date: 'August  2010 – March 2012',
     client: 'Delta State Govt.',
   },
@@ -133,7 +121,7 @@ export const projects = [
     description:
       'Construction of Roads Drainages and solar street light at Amukoko, Lagos. ',
     completion: '100% Completed',
-    image: Ten,
+    image: Three,
     value: '₦142M',
     date: 'October 2010 – June 2011',
     client: 'Federal Ministry of Land, Housing and Urban Development ',
