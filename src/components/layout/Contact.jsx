@@ -6,7 +6,7 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card';
-import Four from '../../assets/about.jpg';
+import Four from '../../assets/map.png';
 
 const Contact = () => {
   return (

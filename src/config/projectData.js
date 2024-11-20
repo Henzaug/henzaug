@@ -1,5 +1,4 @@
 import One from '../assets/1.jpg';
-import Two from '../assets/2.jpg';
 import Three from '../assets/about.jpg';
 import Eleven from '../assets/11.jpg';
 import Twelve from '../assets/12.jpg';
@@ -64,15 +63,6 @@ export const projects = [
     date: 'January 2022',
     client: 'Sirvic Holdings Ltd ',
   },
-  {
-    description:
-      'Construction of School Science Laboratory at St. Pius XTH Grammar School Onicha-Ugbo ',
-    completion: '100% Completed',
-    image: Two,
-    value: '₦90M',
-    date: 'August 2022',
-    client: 'Jospaka Ventures Nigeria Ltd./Total Exploration Nigeria Ltd.',
-  },
 
   // {
   //   description: 'Construction of Hotel Annex Building at Asaba ',
@@ -83,15 +73,6 @@ export const projects = [
   //   client: 'Kim Royals Hotels & Suites',
   // },
 
-  {
-    description:
-      'Construction of 500 Seater Events hall and swimming pool at Asaba. ',
-    completion: '100% Completed',
-    image: Three,
-    value: '₦480M',
-    date: 'August 2011 – Nov. 2012',
-    client: 'Austlinks Investment Ltd.',
-  },
   {
     description: 'Construction of Housing units at DKO Estate Gosa-Lugbe FCT',
     completion: '100% Completed',
@@ -117,6 +98,25 @@ export const projects = [
     date: 'August  2010 – March 2012',
     client: 'Delta State Govt.',
   },
+
+  {
+    description:
+      'National Universities Hostel project. Which involves development of 5,000 rooms hostel accommodation for selected Nigerian universities',
+    completion: 'Tender Process on',
+    image: Nineteen,
+    value: '$81M',
+    date: 'October, 2009',
+    client: ' Nayopet Ltd/Gte',
+  },
+  {
+    description:
+      'Construction of School Science Laboratory at St. Pius XTH Grammar School Onicha-Ugbo ',
+    completion: '100% Completed',
+    image: Three,
+    value: '₦90M',
+    date: 'August 2022',
+    client: 'Jospaka Ventures Nigeria Ltd./Total Exploration Nigeria Ltd.',
+  },
   {
     description:
       'Construction of Roads Drainages and solar street light at Amukoko, Lagos. ',
@@ -137,11 +137,11 @@ export const projects = [
   },
   {
     description:
-      'National Universities Hostel project. Which involves development of 5,000 rooms hostel accommodation for selected Nigerian universities',
-    completion: 'Tender Process on',
-    image: Nineteen,
-    value: '$81M',
-    date: 'October, 2009',
-    client: ' Nayopet Ltd/Gte',
+      'Construction of 500 Seater Events hall and swimming pool at Asaba. ',
+    completion: '100% Completed',
+    image: Three,
+    value: '₦480M',
+    date: 'August 2011 – Nov. 2012',
+    client: 'Austlinks Investment Ltd.',
   },
 ];
