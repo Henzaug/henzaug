@@ -29,8 +29,7 @@ export const projects = [
     client: 'Austlinks Investment Ltd.',
   },
   {
-    description:
-      'Residential Estate development for Enugu State government in Enugu',
+    description: 'Residential Estate development in Enugu',
     completion: 'Ongoing',
     image: Thirteen,
     value: '₦1.4B',
