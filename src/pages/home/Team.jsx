@@ -29,7 +29,8 @@ const Team = () => {
             return (
               <motion.div
                 key={index}
-                className={`bg-white shadow-md rounded-lg overflow-hidden w-full md:w-[calc(50%-1.5rem)] ${
+                onClick={() => toggleMemberBio(index)}
+                className={`cursor-pointer bg-white shadow-md rounded-lg overflow-hidden w-full md:w-[calc(50%-1.5rem)] ${
                   expandedMember === index ? 'expanded' : 'collapsed'
                 }`}
                 initial='hidden'
