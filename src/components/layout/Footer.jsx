@@ -51,6 +51,14 @@ const Footer = () => {
         <div className='border-t border-gray-800 mt-8 pt-8 text-center'>
           <p>&copy; 2024 Henzaug BV Ltd. All rights reserved.</p>
         </div>
+        <div className='text-center mt-2'>
+          <p className='text-sm text-gray-400'>
+            Designed and developed by{' '}
+            <a className='underline' href='https://netacci.com' target='_blank'>
+              Netacci
+            </a>
+          </p>
+        </div>
       </div>
     </footer>
   );
