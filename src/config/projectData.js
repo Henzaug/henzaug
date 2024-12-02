@@ -100,7 +100,7 @@ export const projects = [
 
   {
     description:
-      'National Universities Hostel project. Which involves development of 5,000 rooms hostel accommodation for selected Nigerian universities',
+      'Project Managers - National Universities Hostel project. Which involves development of 5,000 rooms hostel accommodation for selected Nigerian universities',
     completion: 'Tender Process on',
     image: Nineteen,
     value: '$81M',
